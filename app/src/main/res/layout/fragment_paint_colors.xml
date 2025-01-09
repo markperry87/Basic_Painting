@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:background="@android:color/white">
+
+    <!-- Red Button -->
+    <Button
+        android:id="@+id/btn_red"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="50dp"
+        android:backgroundTint="#FF0000"
+        android:text=""
+        android:stateListAnimator="@null" />
+
+    <!-- Blue Button -->
+    <Button
+        android:id="@+id/btn_blue"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="50dp"
+        android:backgroundTint="#0000FF"
+        android:text=""
+        android:stateListAnimator="@null" />
+
+    <!-- Green Button -->
+    <Button
+        android:id="@+id/btn_green"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="50dp"
+        android:backgroundTint="#00FF00"
+        android:text=""
+        android:stateListAnimator="@null" />
+
+    <!-- Yellow Button -->
+    <Button
+        android:id="@+id/btn_yellow"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="50dp"
+        android:backgroundTint="#FFFF00"
+        android:text=""
+        android:stateListAnimator="@null" />
+
+    <!-- Black Button -->
+    <Button
+        android:id="@+id/btn_black"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="50dp"
+        android:backgroundTint="#000000"
+        android:text=""
+        android:stateListAnimator="@null" />
+
+</LinearLayout>
