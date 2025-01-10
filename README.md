@@ -2,7 +2,7 @@
 
 A simple drawing application for Android that allows users to draw on a canvas with multiple colors. 
 
-After putting this together, I noticed that changing the phone's orientation clears everything on the screen. While this was an unintended bug, it works works well as a quick way to reset the canvas, especially since I hadn't implemented a clear or erase function.
+After putting this together, I noticed that changing the phone's orientation clears everything on the screen. While this was an unintended bug, it works well as a quick way to reset the canvas, especially since I hadn't implemented a clear or erase function.
 ## Features
 - Freehand drawing on a canvas.
 - Multiple color options (Red, Blue, Green, Yellow, Black).
